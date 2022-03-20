@@ -1,3 +1,4 @@
+#Developer by Efty
 import requests
 from requests.structures import CaseInsensitiveDict
 print("\033[H\033[J")
